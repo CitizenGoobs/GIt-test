@@ -1,5 +1,3 @@
-# GIt-test
-
-Hello!
-
-git commit Help
+MyReceipes
+Odin
+MyReceipes
